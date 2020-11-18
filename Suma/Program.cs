@@ -26,6 +26,7 @@ namespace Suma
             
             //Mostrar el resultado
             Console.Write("A suma es" + s);
+            Console.ReadKey();
         }
     }
 }
